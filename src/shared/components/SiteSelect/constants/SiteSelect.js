@@ -1,0 +1,4 @@
+const SITE_SELECT = {
+  CUSTOMER_SITE: 'SITE_SELECT.CUSTOMER_SITE',
+};
+export default SITE_SELECT;

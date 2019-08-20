@@ -1,0 +1,5 @@
+const TASK_TEMPLATE = {
+  TEMPLATE: 'TASK_TEMPLATE.TEMPLATE',
+};
+export default TASK_TEMPLATE;
+

@@ -1,0 +1,15 @@
+export const SCREEN_LEGAL_PAGE = 'LegalPage';
+export const SCREEN_SIDE_DRAWER = 'SideDrawer';
+export const SCREEN_LOADING = 'Loading';
+export const SCREEN_LOADING_WORK = 'LoadingWork';
+export const SCREEN_LOADING_SITE = 'LoadingSite';
+export const SCREEN_LOADING_SHIFTS = 'LoadingShifts';
+export const SCREEN_TASK_DETAIL = 'TaskDetail';
+export const SCREEN_TASK_AREA = 'TaskArea';
+export const SCREEN_TASK_ITEM = 'TaskItem';
+export const SCREEN_WORK_DETAIL = 'WorkDetail';
+export const SCREEN_WORK_LIST = 'Work';
+export const SCREEN_CREATE_TASK = 'CreateTask';
+export const SCREEN_SITE_LIST = 'SiteList';
+export const SCREEN_COVERAGE_LIST = 'CoverageList';
+export const SCREEN_CREATE_SHIFT = 'CreateShift';
